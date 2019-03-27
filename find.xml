@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '.../01.php [Regex]'" />
-    <option name="defaultScopeName" value="File '.../01.php [Regex]'" />
-    <option name="SEARCH_SCOPE" value="File '.../01.php [Regex]'" />
+    <option name="customScope" value="File '.../06.php [Regex]'" />
+    <option name="defaultScopeName" value="File '.../06.php [Regex]'" />
+    <option name="SEARCH_SCOPE" value="File '.../06.php [Regex]'" />
   </component>
 </application>
