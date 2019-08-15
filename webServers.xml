@@ -1,8 +1,8 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="ab33fcac-cd98-49ba-b232-84de1b4c32ad" name="petnik.rarus.ru" url="http://194.226.180.68">
-        <fileTransfer host="194.226.180.68" port="22160" rootFolder="/home/bitrix/ext_www/petnik.rarus.ru" accessType="SFTP" authAgent="true">
+      <webServer id="ab33fcac-cd98-49ba-b232-84de1b4c32ad" name="petnik.rarus.ru" url="http://petnik.rarus.ru">
+        <fileTransfer host="petnik.rarus.ru" port="22160" rootFolder="/home/bitrix/ext_www/petnik.rarus.ru" accessType="SFTP" authAgent="true">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
           </advancedOptions>
