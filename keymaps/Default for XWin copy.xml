@@ -1,5 +1,5 @@
 <keymap version="1" name="Default for XWin copy" parent="Default for XWin">
-  <action id="PublishGroup.DownloadFrom">
+  <action id="PublishGroup.Download">
     <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="PublishGroup.Upload">
