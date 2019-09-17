@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="JavaScript/Control Flow/Remove Braces" />
+    <ignoreAction name="PHP/Replace quotes" />
   </component>
 </application>
