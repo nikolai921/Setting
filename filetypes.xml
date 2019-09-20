@@ -14,6 +14,8 @@
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="teat" type="PHP" />
+      <mapping pattern="SORT," type="PLAIN_TEXT" />
+      <mapping pattern="Y," type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
